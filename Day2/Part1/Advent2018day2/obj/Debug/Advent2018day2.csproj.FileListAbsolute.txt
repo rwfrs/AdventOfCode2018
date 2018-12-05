@@ -1,0 +1,6 @@
+c:\users\rwfrs\documents\visual studio 2015\Projects\Advent2018day2\Advent2018day2\bin\Debug\Advent2018day2.exe.config
+c:\users\rwfrs\documents\visual studio 2015\Projects\Advent2018day2\Advent2018day2\bin\Debug\Advent2018day2.exe
+c:\users\rwfrs\documents\visual studio 2015\Projects\Advent2018day2\Advent2018day2\bin\Debug\Advent2018day2.pdb
+c:\users\rwfrs\documents\visual studio 2015\Projects\Advent2018day2\Advent2018day2\obj\Debug\Advent2018day2.csprojResolveAssemblyReference.cache
+c:\users\rwfrs\documents\visual studio 2015\Projects\Advent2018day2\Advent2018day2\obj\Debug\Advent2018day2.exe
+c:\users\rwfrs\documents\visual studio 2015\Projects\Advent2018day2\Advent2018day2\obj\Debug\Advent2018day2.pdb
