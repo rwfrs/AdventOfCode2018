@@ -1,9 +1,0 @@
-c:\users\rwfrs\documents\visual studio 2015\Projects\Advent2018day2part2\Advent2018day2part2\bin\Debug\Advent2018day2part2.exe.config
-c:\users\rwfrs\documents\visual studio 2015\Projects\Advent2018day2part2\Advent2018day2part2\bin\Debug\Advent2018day2part2.exe
-c:\users\rwfrs\documents\visual studio 2015\Projects\Advent2018day2part2\Advent2018day2part2\bin\Debug\Advent2018day2part2.pdb
-c:\users\rwfrs\documents\visual studio 2015\Projects\Advent2018day2part2\Advent2018day2part2\obj\Debug\Advent2018day2part2.csprojResolveAssemblyReference.cache
-c:\users\rwfrs\documents\visual studio 2015\Projects\Advent2018day2part2\Advent2018day2part2\obj\Debug\Advent2018day2part2.exe
-c:\users\rwfrs\documents\visual studio 2015\Projects\Advent2018day2part2\Advent2018day2part2\obj\Debug\Advent2018day2part2.pdb
-C:\Users\rwfrs\Documents\Visual Studio 2015\Projects\AdventOfCode2018\Day2\Part2\Advent2018day2part2\bin\Debug\Advent2018day2part2.exe.config
-C:\Users\rwfrs\Documents\Visual Studio 2015\Projects\AdventOfCode2018\Day2\Part2\Advent2018day2part2\obj\Debug\Advent2018day2part2.exe
-C:\Users\rwfrs\Documents\Visual Studio 2015\Projects\AdventOfCode2018\Day2\Part2\Advent2018day2part2\obj\Debug\Advent2018day2part2.pdb
